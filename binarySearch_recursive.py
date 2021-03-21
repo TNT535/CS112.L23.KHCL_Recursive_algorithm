@@ -25,6 +25,7 @@ def binary_search(arr, left, right, x):
 arr = [2, 3, 4, 10, 40]
 x = 10
 
+
 # Function call
 result = binary_search(arr, 0, len(arr) - 1, x)
 
