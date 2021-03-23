@@ -1,8 +1,8 @@
 # CS112.L23.KHCL_Recursive_algorithm
 Thành viên:
-19522057-Trần Hồ Thiên Phước
-19521324-Phạm Nguyễn Công Danh
-19521043-Lê Văn Trí
+  19522057-Trần Hồ Thiên Phước
+  19521324-Phạm Nguyễn Công Danh
+  19521043-Lê Văn Trí
 
 Nội dung buổi thuyết trình phân tích độ phức tạp thuật toán đệ quy:
 1. Nhắc lại vấn đề độ phức tạp ở buổi trước.
