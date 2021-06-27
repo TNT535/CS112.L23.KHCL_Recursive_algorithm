@@ -1,0 +1,2 @@
+Bài tập: tính độ phức tạp của Merge sort
+Đánh giá: nhóm đã trực tiếp giải thích và chỉ ra lời giải chính xác cho mọi người ở tuần kế tiếp, các nhóm dựa vào lời giải để tự đánh giá.
